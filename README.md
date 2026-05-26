@@ -8,7 +8,7 @@ Static leaderboard site for Trainers and FMs across:
 
 The site reads the public Google Sheet directly and shows:
 
-- all trainers and FMs in each ownership
+- all trainers and FMs in each ownership 
 - city and designation filters
 - name/center search
 - contest revenue
